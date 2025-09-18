@@ -8,6 +8,7 @@ It helps stakeholders make **data-driven decisions** by identifying sales trends
 
 ---
 ## 🛠 Tool Used
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/edc65938-3974-4e8c-9836-6f0056ea9a9a" />
 
 
 ## 🎯 Objectives  
