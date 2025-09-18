@@ -1,6 +1,6 @@
 # 📊 Vrinda Store Sales Analysis  
 
- 
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/ef43bceb-9d14-4af5-bf4d-255b7b1fedb2" /> 
 
 ## 📌 Project Overview  
 The **Vrinda Store Sales Analysis Dashboard** provides a detailed overview of store performance across different sales channels, states, age groups, and genders.  
