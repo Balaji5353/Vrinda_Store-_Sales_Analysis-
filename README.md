@@ -7,6 +7,8 @@ The **Vrinda Store Sales Analysis Dashboard** provides a detailed overview of st
 It helps stakeholders make **data-driven decisions** by identifying sales trends, customer demographics, and key revenue contributors.  
 
 ---
+## 🛠 Tool Used
+
 
 ## 🎯 Objectives  
 - Track **monthly orders and sales performance**  
