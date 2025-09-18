@@ -1,6 +1,6 @@
 # 📊 Vrinda Store Sales Analysis  
 
-![Dashboard](Dashboard.png)  
+ 
 
 ## 📌 Project Overview  
 The **Vrinda Store Sales Analysis Dashboard** provides a detailed overview of store performance across different sales channels, states, age groups, and genders.  
@@ -84,3 +84,4 @@ Vrinda Store has strong sales driven by **women shoppers, top states (Maharashtr
 
 ---
 ## 🖼️ Dashboard Preview
+<img width="1183" height="500" alt="Image" src="https://github.com/user-attachments/assets/31314314-4f3e-4864-9c08-d8feeea3e9de" />
