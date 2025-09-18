@@ -83,3 +83,4 @@ Vrinda Store has strong sales driven by **women shoppers, top states (Maharashtr
 👉 Future growth can be boosted by focusing on **women-centric products**, **regional promotions**, and **strengthening e-commerce partnerships**.  
 
 ---
+## 🖼️ Dashboard Preview
